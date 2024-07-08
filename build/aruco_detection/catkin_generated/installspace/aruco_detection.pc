@@ -1,0 +1,8 @@
+prefix=/home/rishang19_dx/task3_aruco/install
+
+Name: aruco_detection
+Description: Description of aruco_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
