@@ -1,0 +1,13 @@
+[submodule "src/gazebo_aruco_models"]
+   path = src/gazebo_aruco_models
+   url = https://github.com/sacchinbhg/gazebo_aruco_models
+
+[submodule "src/turtlebot3"]
+   path = src/turtlebot3
+   url = https://github.com/ROBOTIS-GIT/turtlebot3
+
+[submodule "src/turtlebot3_simulations"]
+   path = src/turtlebot3_simulations
+   url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
+
+
