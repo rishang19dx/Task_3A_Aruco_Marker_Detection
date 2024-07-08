@@ -14,7 +14,8 @@ This task involves detecting Aruco markers in two different cases:
 3. [Real-World Video Detection](#real-world-video-detection)
 4. [Gazebo Simulation](#gazebo-simulation)
 6. [Results](#results)
-7. [References](#references)
+7. [Images](#images)
+8. [References](#references)
 
 ## Prerequisites
 
@@ -110,6 +111,15 @@ cd Task_3A_Aruco_Marker_Detection
 
 - **Gazebo Simulation:**
   - The detection node will output the positions of the detected Aruco markers in the simulation and highlight the same in the simulation.
+
+## Images
+
+### Aruco Markers in gazebo environment
+![Aruco Markers in gazebo environment](gazebo.png)
+
+### Aruco Markers Detection
+![Aruco Markers Detection](aruco_detect.png)
+
 
 ## References
 
